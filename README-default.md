@@ -1,10 +1,30 @@
 ![Logo of the project](https://raw.githubusercontent.com/jehna/readme-best-practices/master/sample-logo.png)
 
-# Name of the project
+## Table of Contents
+- [Project Name](#project-name)
+- [Features](#features)
+- [Installing / Getting Started](#installing--getting-started)
+- [Initial Configuration](#initial-configuration)
+- [Developing](#developing)
+- [Building](#building)
+- [Deploying / Publishing](#deploying--publishing)
+- [Configuration](#configuration)
+- [Contributing](#contributing)
+- [Links](#links)
+- [Licensing](#licensing)
+
+# Project Name
 > Additional information or tagline
 
 A brief description of your project, what it is used for and how does life get
 awesome when someone starts to use it.
+
+## Features
+
+What's all the bells and whistles this project can perform?
+* What's the main functionality
+* You can also do another thing
+* If you get really randy, you can even do this
 
 ## Installing / Getting started
 
@@ -61,13 +81,6 @@ packagemanager deploy awesome-project -s server.com -u username -p password
 ```
 
 And again you'd need to tell what the previous code actually does.
-
-## Features
-
-What's all the bells and whistles this project can perform?
-* What's the main functionality
-* You can also do another thing
-* If you get really randy, you can even do this
 
 ## Configuration
 
